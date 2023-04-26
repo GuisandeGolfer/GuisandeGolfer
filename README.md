@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GuisandeGolfer
 - 👀 I’m interested in computer science, PC gaming, mechanical keyboards, productivity apps, and fixing my problems with code. 
-- 🌱 I’m trying to learn more about python and vim at the moment. I want to be a Site Reliability engineer, or work in Software Development in my future career.  
-- 💞️ I’m looking to collaborate on projects that I think are very interesting or useful.
+- 🌱 I’m trying to learn more about python and vim at the moment. I am actively trying to get my first position in Software Development.
+- 💞️ I’m looking to collaborate on projects that I can add value to.
 - 📫 The best way to reach me would be to email me at DGuisande873@gmail.com.
 
 <!---
